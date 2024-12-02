@@ -1,4 +1,4 @@
-echo (new ActiveXObject("WScript.Shell")).AppActivate("jp2launcher.exe"); > focus.js
+echo (new ActiveXObject("WScript.Shell")).AppActivate("Morena source selector"); > focus.js
 cscript //nologo focus.js
 del focus.js
 
