@@ -4,6 +4,6 @@ Usage:
 
 These files have to be deployed per-user in the following paths:
 
-C:\users\<user>\AppData\LocalLow\Sun\Java\Deployment\deployment.properties
+C:\users\\<user>\AppData\LocalLow\Sun\Java\Deployment\deployment.properties
 
-C:\users\<user>\AppData\LocalLow\Sun\Java\Deploment\security\trusted.certs
+C:\users\\<user>\AppData\LocalLow\Sun\Java\Deploment\security\trusted.certs
